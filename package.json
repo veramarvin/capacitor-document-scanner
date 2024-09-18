@@ -13,14 +13,14 @@
     "ios/Plugin/",
     "CapacitorDocumentScanner.podspec"
   ],
-  "author": "David Marcus",
+  "author": "veramarvin",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WebsiteBeaver/capacitor-document-scanner.git"
+    "url": "git+https://github.com/veramarvin/capacitor-document-scanner.git"
   },
   "bugs": {
-    "url": "https://github.com/WebsiteBeaver/capacitor-document-scanner/issues"
+    "url": "https://github.com/veramarvin/capacitor-document-scanner/issues"
   },
   "keywords": [
     "capacitor",
